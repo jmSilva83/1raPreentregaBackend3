@@ -1,5 +1,3 @@
-// src/utils/errors.js
-
 export const ErrorMessages = {
     USER_ALREADY_EXISTS: {
         message: 'User already exists.',
